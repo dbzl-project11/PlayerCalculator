@@ -6,10 +6,10 @@ DBZ League is all Com vs. Com fights, but the characters are built with help fro
 
 https://www.tapatalk.com/groups/squees_lair/dragon-ball-z-league-f2/
 
-You can also find us on the following:
-Twitter: https://twitter.com/DBZLeague
-Reddit: https://www.reddit.com/r/DBZLeague/
-Youtube: https://www.youtube.com/channel/UCUFfrYe-c9w0mHTwqHnFikQ
+You can also find us on the following:  
+Twitter: https://twitter.com/DBZLeague  
+Reddit: https://www.reddit.com/r/DBZLeague/  
+Youtube: https://www.youtube.com/channel/UCUFfrYe-c9w0mHTwqHnFikQ  
 
 Please note this is still a WiP. The data here does not necessarily reflect the latest state of the league, especially with respect to mods. If you have specific questions, please contact a staff member.
 
