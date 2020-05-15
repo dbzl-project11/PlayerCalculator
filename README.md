@@ -5,8 +5,8 @@ Player Calculator for BT3 characters in DBZ League
 DBZ League is all Com vs. Com fights, but the characters are built with help from the community, like you! Each team is led by a coach and a team of supporters that figure out how to build the characters with specific items that affect how they fight and what they can do
 
 You can also find us on the following:  
-Youtube: https://www.youtube.com/channel/UCYrEHQEtGnLXy_ly1GIN46g
-Discord: https://discord.gg/gRQv8KC
+Youtube: https://www.youtube.com/channel/UCYrEHQEtGnLXy_ly1GIN46g <br>
+Discord: https://discord.gg/gRQv8KC <br>
 Website: https://dbzl-project11.github.io/
 
 Please note this is still a WiP. The data here does not necessarily reflect the latest state of the league, especially with respect to mods. If you have specific questions, please contact a staff member.
